@@ -9,4 +9,6 @@ Some of them may require programs to run properly. PowerBI requires PowerBI Desk
 
 2019-09-10: Uploaded Power BI Fortune 1000 Dashboard (v1.0).
 
-2020-03-05: Uploaded Power BI Fortune 1000 Dashboard (v2.0).
+2020-05-03: Uploaded Power BI Fortune 1000 Dashboard (v2.0).
+
+2020-05-04: Uploaded data processing ipynb (for filtering stocks before importing into Power BI Fortune 1000 Dashboard (v2.0)
