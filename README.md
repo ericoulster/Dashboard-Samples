@@ -13,4 +13,4 @@ Some of them may require programs to run properly. PowerBI requires PowerBI Desk
 
 2020-05-04: Uploaded data processing ipynb (for filtering stocks before importing into Power BI Fortune 1000 Dashboard (v2.0)
 
-2020-05-05: Uploaded Arcgis Airport & Railway Dashboard (v1.0)
+2020-05-05: Uploaded Arcgis Airport & Railways Dashboard (v1.0)
