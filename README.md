@@ -1,6 +1,8 @@
 # Dashboard-Samples
 Iteratively designed BI dashboards using open data sets
 
+It is worth noting that the pieces in this portfolio do not reflect my best work. Rather, they reflect work that I am allowed to share.
+
 I will be uploading dashboards using various BI tools to this repository. 
 
 These examples are not to show off my analytical skills, merely my technical proficiency with the programs.
