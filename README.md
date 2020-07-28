@@ -16,3 +16,5 @@ To view dashboards properly, one needs to deploy them to Power BI service.
 2020-05-04: Uploaded data processing ipynb (for filtering stocks before importing into Power BI Fortune 1000 Dashboard (v2.0)
 
 2020-05-05: Uploaded Arcgis Airport & Railways Dashboard (v1.0)
+
+2020-07-28: Uploaded AI company design PoC
